@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# OS/Editor
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# ML Models and heavily binaries (usually ignored)
+*.pkl
